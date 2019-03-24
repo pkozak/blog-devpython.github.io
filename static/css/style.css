@@ -71,6 +71,10 @@ pre {
     border-left: 0.3rem solid #4dca8b;
 }
 
+.item {
+    margin-bottom: 15px !important;
+}
+
 .centered {
     margin: 0 auto;
     display: block;
